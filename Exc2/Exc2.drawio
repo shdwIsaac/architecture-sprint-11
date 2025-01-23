@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6">
+  <diagram name="Страница — 1" id="gelnlSUZZAKvmf2Q1c5T">
+    <mxGraphModel dx="2074" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FoafAkq87i8p1oQKzahs-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FoafAkq87i8p1oQKzahs-1" target="FoafAkq87i8p1oQKzahs-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoafAkq87i8p1oQKzahs-1" value="Внешние системы" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FoafAkq87i8p1oQKzahs-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FoafAkq87i8p1oQKzahs-2" target="FoafAkq87i8p1oQKzahs-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoafAkq87i8p1oQKzahs-2" value="Интеграционный слой" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FoafAkq87i8p1oQKzahs-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FoafAkq87i8p1oQKzahs-3" target="FoafAkq87i8p1oQKzahs-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FoafAkq87i8p1oQKzahs-3" value="Домен хранения данных" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FoafAkq87i8p1oQKzahs-6" value="Домен BI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FoafAkq87i8p1oQKzahs-8" value="Комментарий: можно отдать на откуп интеграционному слою (она же вероятно шина)&amp;nbsp;&lt;div&gt;выбор домена данных.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="390" width="510" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
